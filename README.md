@@ -145,3 +145,19 @@ elif pilih ==4:
   elif pilih ==5 :
         exit()
 ```
+berikut output dari daftar menu mahasiswa
+# output ketika program baru di run
+
+![output1](https://user-images.githubusercontent.com/81457697/146674042-5f4fe184-fe74-4e4e-9de1-250056bbbf0a.png)
+
+# output ketika kita sudah memasukan data mahasiswa
+
+![output2](https://user-images.githubusercontent.com/81457697/146674159-895b2cff-d321-40c1-ac12-dda2fb2946f2.png)
+
+# output untuk menampilkan data mahasiswa siapa saja yang sudah masuk
+
+![output3](https://user-images.githubusercontent.com/81457697/146674169-ada2acd1-6c11-4f64-809d-388d31b68702.png)
+
+# output untuk kembali ke  menu utama dan keluar aplikasi
+
+![output4](https://user-images.githubusercontent.com/81457697/146674219-7cd6a5cd-0314-4689-b0db-2a279695e4a1.png)
