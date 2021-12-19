@@ -145,7 +145,7 @@ elif pilih ==4:
   elif pilih ==5 :
         exit()
 ```
-berikut output dari daftar menu mahasiswa
+# berikut output dari daftar menu mahasiswa
 # output ketika program baru di run
 
 ![output1](https://user-images.githubusercontent.com/81457697/146674042-5f4fe184-fe74-4e4e-9de1-250056bbbf0a.png)
