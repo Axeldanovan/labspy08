@@ -21,5 +21,5 @@ class mahasiswa:
     uts=""
     uas=""
     akhir=""
-    ```
+ ```
     
